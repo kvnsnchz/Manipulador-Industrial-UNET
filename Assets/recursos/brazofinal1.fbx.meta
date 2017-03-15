@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 141b052293f7b094d96ff6f0c9e6fc07
+timeCreated: 1478519315
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Cilindro
+    100006: Cube
+    100008: Cube.009
+    100010: Cube.010
+    100012: Cube.012
+    100014: Cubo
+    100016: Cubo.001
+    100018: Cubo.002
+    100020: Cubo.003
+    100022: Cubo.004
+    100024: Cubo.005
+    100026: Curve
+    100028: Cylinder.018
+    100030: Cylinder.019
+    100032: Cylinder.022
+    100034: Cylinder.023
+    100036: Lamp
+    100038: Lamp.001
+    100040: Torus.001
+    400000: //RootNode
+    400002: Camera
+    400004: Cilindro
+    400006: Cube
+    400008: Cube.009
+    400010: Cube.010
+    400012: Cube.012
+    400014: Cubo
+    400016: Cubo.001
+    400018: Cubo.002
+    400020: Cubo.003
+    400022: Cubo.004
+    400024: Cubo.005
+    400026: Curve
+    400028: Cylinder.018
+    400030: Cylinder.019
+    400032: Cylinder.022
+    400034: Cylinder.023
+    400036: Lamp
+    400038: Lamp.001
+    400040: Torus.001
+    2300000: Cilindro
+    2300002: Cube
+    2300004: Cube.009
+    2300006: Cube.010
+    2300008: Cube.012
+    2300010: Cubo
+    2300012: Cubo.001
+    2300014: Cubo.002
+    2300016: Cubo.003
+    2300018: Cubo.004
+    2300020: Cubo.005
+    2300022: Curve
+    2300024: Cylinder.018
+    2300026: Cylinder.019
+    2300028: Cylinder.022
+    2300030: Cylinder.023
+    2300032: Torus.001
+    3300000: Cilindro
+    3300002: Cube
+    3300004: Cube.009
+    3300006: Cube.010
+    3300008: Cube.012
+    3300010: Cubo
+    3300012: Cubo.001
+    3300014: Cubo.002
+    3300016: Cubo.003
+    3300018: Cubo.004
+    3300020: Cubo.005
+    3300022: Curve
+    3300024: Cylinder.018
+    3300026: Cylinder.019
+    3300028: Cylinder.022
+    3300030: Cylinder.023
+    3300032: Torus.001
+    4300000: Cubo.004
+    4300002: Cubo
+    4300004: Cilindro
+    4300006: Curve
+    4300008: Cylinder.018
+    4300010: Cube
+    4300012: Cylinder.019
+    4300014: Cylinder.022
+    4300016: Cylinder.023
+    4300018: Torus.001
+    4300020: Cube.010
+    4300022: Cube.009
+    4300024: Cube.012
+    4300026: Cubo.001
+    4300028: Cubo.002
+    4300030: Cubo.003
+    4300032: Cubo.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

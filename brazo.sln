@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D4276A6B-733F-AA72-8AD0-4F2B0B7EA6E0}") = "brazo", "Assembly-CSharp-Editor.csproj", "{67765997-7E3F-069B-D400-AC1D9FED3F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67765997-7E3F-069B-D400-AC1D9FED3F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67765997-7E3F-069B-D400-AC1D9FED3F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67765997-7E3F-069B-D400-AC1D9FED3F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67765997-7E3F-069B-D400-AC1D9FED3F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

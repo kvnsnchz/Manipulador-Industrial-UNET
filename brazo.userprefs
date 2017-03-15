@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MoviMano1.js">
+    <Files>
+      <File FileName="Assets\Scripts\MoviMano1.js" Line="39" Column="36" />
+      <File FileName="Assets\Scripts\colision.js" Line="36" Column="8" />
+      <File FileName="Assets\Scripts\colision2.js" Line="25" Column="65" />
+      <File FileName="Assets\Scripts\MoviBrazo.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoviCintura.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoviAnteBrazo.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoviCintura2.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RotacionMuneca.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ABMuneca.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoviMano2.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ayuda.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\nuevaMoviCintura.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
